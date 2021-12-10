@@ -1,0 +1,2 @@
+class Blogzera < ApplicationRecord
+end
